@@ -1,0 +1,6 @@
+{
+    "entry_point": "ackley_problem:AckleyProblem",
+    "default_params": {
+      "dim": 2
+    }
+  }
